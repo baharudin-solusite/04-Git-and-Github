@@ -10,4 +10,4 @@ Answer the following questions
 7. What `git` command deletes a branch? 
 8. What does the `git diff` command do?
 9. How do you remove files from the staging area? 
-10. How do merge conflicts happen?
+10. How do merge conflicts happe?
